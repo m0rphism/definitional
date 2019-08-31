@@ -1,0 +1,17 @@
+-R theories/ Theories
+theories/CpdtTactics.v
+theories/Tactics.v
+theories/Chap_2_Framework.v
+theories/Chap_1_Intro.v
+theories/Chap_3_STLC.v
+theories/Chap_3_STLC_Inline.v
+theories/Chap_3_STLC_SemEq.v
+theories/Chap_3_STLC_Smallstep.v
+theories/Chap_3_STLC_VarIndices.v
+theories/Chap_3_STLC_VarLevels.v
+theories/Chap_3_STLC_VarNames.v
+theories/Chap_4_MutRef.v
+theories/Chap_4_MutRef_Inline.v
+theories/Chap_5_Sub.v
+theories/Chap_6_Affine.v
+theories/Chap_7_F.v
